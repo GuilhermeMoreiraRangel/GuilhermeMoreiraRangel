@@ -1,4 +1,4 @@
-Informações basicas:
+**Informações basicas:**
 
 Me chamo Guilherme Moreira Rangel.
 
@@ -10,7 +10,7 @@ Estou à procura de estagio e não possuo nenhuma experiencia previa de trabalho
 
 
 
-Línguas:
+**Línguas:**
 Português - Intermediário
 
 Inglês – Intermediário
@@ -20,7 +20,7 @@ Francês – Básico
 
 
 
-Linguagens de Programação:
+**Linguagens de Programação:**
 
 Python – Intermediário
 
