@@ -1,4 +1,5 @@
 Informações basicas:
+
 Me chamo Guilherme Moreira Rangel.
 
 Estou me graduando em Ciência de Dados e Inteligência Artificial pela PUC-SP.
