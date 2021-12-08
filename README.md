@@ -8,12 +8,17 @@ Gosto de trabalhar com Banco de Dados e estatística.
 
 Estou à procura de estagio e não possuo nenhuma experiencia previa de trabalho.
 
+
+
 Línguas:
 Português - Intermediário
 
 Inglês – Intermediário
 
 Francês – Básico
+
+
+
 
 Linguagens de Programação:
 
